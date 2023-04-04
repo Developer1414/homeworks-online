@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "371990022456",
+    "project_id": "school-homeworking-online",
+    "storage_bucket": "school-homeworking-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371990022456:android:e55ace294200d8de8599cd",
+        "android_client_info": {
+          "package_name": "com.revens.homeworks.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371990022456-e7dldkl14bn9biergkreqjsovo0sk3h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEOXx7BMjpEZYqwnvpq1vg_mRVIr2Aq60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371990022456-e7dldkl14bn9biergkreqjsovo0sk3h7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "371990022456-b2icgi450ds570gdv4g3p56qsel9as4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scoolHomeWorking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
